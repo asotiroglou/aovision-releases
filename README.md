@@ -5,8 +5,8 @@ repository is reserved for Windows installers and update files.
 
 ## Prelaunch status
 
-The first installer release has not been published. The prepared Windows 1.1.0
-installer is unsigned. Discord sign-in and verified Admin access have passed an
+The [Windows 1.1.0 installer](https://github.com/asotiroglou/aovision-releases/releases/tag/v1.1.0)
+is available as a prelaunch build and is unsigned. Discord sign-in and verified Admin access have passed an
 online check; customer subscriptions and checkout are not available yet.
 Stripe setup currently uses test mode, and paid-access verification is pending.
 
