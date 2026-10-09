@@ -6,11 +6,12 @@ repository is reserved for Windows installers and update files.
 ## Prelaunch status
 
 The [latest Windows installer](https://github.com/asotiroglou/aovision-releases/releases/latest)
-is available as an unsigned prelaunch build. AOVision 1.2.1 adds experimental broad
-first-detection areas on player cards and fading compass highlights on the radar.
+is available as an unsigned prelaunch build. AOVision 1.2.2 adds colored solo/group
+tracking marks and experimental player-arrival memory with adjustable reach and fade.
 It includes circular radar, Radar Mode with a draggable exit icon, window-size
-restoration, and clearer player IP estimates. Detection areas are uncertain estimates
-at first appearance and do not track player positions.
+restoration, and clearer player IP estimates. Remembered arrival directions and
+distances are uncertain guesses; their compass direction shifts as you move,
+and they do not track player positions. Mounted estimates remain experimental.
 Discord sign-in and verified Admin access have passed online checks. New subscription purchases remain closed.
 
 [Releases](https://github.com/asotiroglou/aovision-releases/releases) contain
