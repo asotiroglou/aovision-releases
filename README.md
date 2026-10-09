@@ -5,15 +5,16 @@ repository is reserved for Windows installers and update files.
 
 ## Prelaunch status
 
-The [Windows 1.1.0 installer](https://github.com/asotiroglou/aovision-releases/releases/tag/v1.1.0)
-is available as a prelaunch build and is unsigned. Discord sign-in and verified Admin access have passed an
-online check; customer subscriptions and checkout are not available yet.
-Stripe setup currently uses test mode, and paid-access verification is pending.
+The [latest Windows installer](https://github.com/asotiroglou/aovision-releases/releases/latest)
+is available as an unsigned prelaunch build. AOVision 1.2.0 includes circular radar,
+Radar Mode with a draggable exit icon, window-size restoration, and clearer player IP estimates.
+Discord sign-in and verified Admin access have passed online checks. New subscription purchases remain closed.
 
-[Releases](https://github.com/asotiroglou/aovision-releases/releases) will contain
-downloads and release notes when a release is published. Check each release's
-notes for its available services and limitations. The installed update flow has
-not yet been verified between released versions.
+[Releases](https://github.com/asotiroglou/aovision-releases/releases) contain
+downloads and release notes. Installed users can open the launcher, stop the radar,
+then choose **Check for updates → Download update → Install and restart**.
+Public downloads and the updater's version checks and checksum verification have been tested.
+An installed upgrade and restart have not yet been verified in a disposable Windows environment.
 
 ## Requirements
 
@@ -27,8 +28,7 @@ not yet been verified between released versions.
 
 The launcher requires a signed-in account with verified access before starting
 the radar. A download alone does not grant a license or subscription. Approved
-Admin accounts can sign in during setup; customer paid access remains pending
-the billing setup and checks.
+Admin accounts can sign in during setup. Check the latest release notes for account-service availability.
 
 Website: [AOVision](https://aovision-access.asotiroglou.chatgpt.site).
 Support: [AOVisionApp@gmail.com](mailto:AOVisionApp@gmail.com).
